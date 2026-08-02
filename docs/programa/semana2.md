@@ -1,24 +1,3 @@
-# Semana 2 — Arquitectura Cloud-Native y Sistemas Inteligentes
+# Semana 2
 
-## Objetivo
-Diseñar arquitecturas escalables y resilientes basadas en microservicios, servicios cloud-native y sistemas inteligentes orientados a agentes.
-
-## Teoría
-- Arquitectura Monolítica vs Microservicios
-- Arquitectura Cloud-Native
-- AI-FFirst Suystems
-- Serverless Computing
-- Docker y Contenedores
-- Sistemas Multiagente
-- Introducción a MCP (Model Context Protocol)
-
-## Sprint Técnico
-Cada equipo definirá la arquitectura de su solución, los componentes principales, servicios, APIs y estructura inicial del backend cloud-native.
-
-## Entregable
-- Diagrama de arquitectura
-- Diagrama de microservicios
-- API contracts
-- Dockerfile inicial
-- Definición del agente inteligente del equipo
-- Arquitectura AI-first
+Este archivo se conserva por compatibilidad. El contenido actualizado se encuentra en [Tema 2: Agentes Inteligentes Modernos](../temas/tema-02-agentes-inteligentes.md) y [Sprint técnico 2](../sprints/sprint-02-agentes.md).
